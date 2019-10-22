@@ -153,10 +153,11 @@
         <article>
           <!--<h3><a href='48rubros/Datos_de_Contacto_de_la_Unidad.html'>13.Datos de contacto de la Unidad</a></h3>-->
           <h3><a href="http://s-contraloria.hidalgo.gob.mx/transparencia/48rubros/Datos_de_Contacto_de_la_Unidad.html">13.Datos de contacto de la Unidad</a></h3>
+
           <p></p>
         </article>
         <article>
-          <h3><a href="http://www.hgo.sep.gob.mx/transparencia/48rubros/Convocatorias.html">14.Convocatorias</a></h3>
+          <h3><a href='48rubros/Convocatorias.html'>14.Convocatorias</a></h3>
           <p></p>
         </article>
         <article>
@@ -514,7 +515,7 @@
             </div>
             <div class="col-md-2 col-sm-6 col-xs-12">
               <div class="media office-sm-structure circle-quotes2" style="height: auto;">
-                <a href="http://www.hgo.sep.gob.mx/transparencia/48rubros/Convocatorias.html" class="promotion-Gob" position="4" alt="Convocatorias">
+                <a href="48rubros/Convocatorias.html" class="promotion-Gob" position="4" alt="Convocatorias">
                   <div>
                     <center>
                     <div class="title rubros"><img src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/Convocatorias.png"></div>
